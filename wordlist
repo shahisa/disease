@@ -4,8 +4,8 @@ Ringworm
 Gonorrhoea
 Chickenpox
 Botulism
-chikungunya
-zika
+chikungunya*
+zika*
 ebola
 mayaro
 Botulism
@@ -15,7 +15,7 @@ Hook worm disease
 Mumps
 Measles
 Pinworm
-Plauge
+Plauge*
 Black Death
 Rabies
 Influnza
@@ -32,8 +32,8 @@ Viral hepatitis
 Hepatitis A
 Hepatitis B
 Hepatitis C
-Dengue Fever
-Cholera
+Dengue Fever*
+Cholera*
 Bacillary Dysentery
 Ascariasis
 Diptheria
@@ -46,3 +46,6 @@ Tetanus
 Vagintis
 Viral Encepelitis 
 TB
+Rift Valley Fever
+Hunter Virus
+West Nile Virus

@@ -7,3 +7,5 @@ reader = WordListCorpusReader('.', ['wordlist'])
 #The code works with no errors however, the words aren't being printed. 
 #I'm not sure why since my wordlist is a text file.
 reader.words()
+reader.fileids()
+
